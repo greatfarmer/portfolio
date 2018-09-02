@@ -6,3 +6,4 @@
 - **v1.4** | 2018.07.24 - Add YG-TIME link and modified profile messages
 - **v1.5** | 2018.08.10 - Add resume, portfolio and modified a part of technical skills (+ setting 'viewport')
 - **v1.6** | 2018.08.17 - Update resume
+- **v1.7** | 2018.09.02 - Add Google Analytics
