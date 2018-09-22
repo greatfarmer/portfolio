@@ -8,3 +8,4 @@
 - **v1.6** | 2018.08.17 - Update resume
 - **v1.7** | 2018.09.02 - Add Google Analytics
 - **v1.8** | 2018.09.06 - Add company name and delete resume, portfolio
+- **v1.9** | 2018.09.22 - Modify SNS contact (delete twitter, add linkedin)
