@@ -10,3 +10,4 @@
 - **v1.8** | 2018.09.06 - Add company name and delete resume, portfolio
 - **v1.9** | 2018.09.22 - Modify SNS contact (delete twitter, add linkedin)
 - **v2.0** | 2018.10.20 - Add resume made with Vue.js
+- **v2.1** | 2018.10.21 - Refactor HTML, CSS code and modify technical, portfolio section
