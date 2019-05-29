@@ -14,3 +14,4 @@
 - **v2.2** | 2019.01.03 - Update copyright year
 - **v2.3** | 2019.04.26 - Add [readpost](https://readpost.co/) link
 - **v2.4** | 2019.05.25 - Modify [corin2](https://github.com/corin2/corin2) link, add Python and fix typo
+- **v2.5** | 2019.05.29 - Modify SNS links: remove instagram, add twitter
