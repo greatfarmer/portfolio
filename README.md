@@ -18,3 +18,4 @@
 - **v2.6** | 2019.07.03 - Update SNS image links
 - **v2.7** | 2019.08.09 - Remove JavaScript in Experienced section
 - **v2.8** | 2019.11.20 - Add [FIFArm](http://34.85.116.234:8080/) link
+- **v2.9** | 2019.12.15 - Remove mail link
