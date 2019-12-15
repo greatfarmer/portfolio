@@ -1,21 +1,21 @@
 # Portfolio
-- **v1.0** | 2017.11.29
-- **v1.1** | 2018.05.18
-- **v1.2** | 2018.07.19 - Add YG-TIME, corin2 project
-- **v1.3** | 2018.07.21 - Add my name, AWS, Firebase and modify following word: 'software' to 'web'
-- **v1.4** | 2018.07.24 - Add YG-TIME link and modify profile messages
-- **v1.5** | 2018.08.10 - Add resume, portfolio and modify a part of technical skills (+ setting 'viewport')
-- **v1.6** | 2018.08.17 - Update resume
-- **v1.7** | 2018.09.02 - Add Google Analytics
-- **v1.8** | 2018.09.06 - Add company name and delete resume, portfolio
-- **v1.9** | 2018.09.22 - Modify SNS contact (delete twitter, add linkedin)
-- **v2.0** | 2018.10.20 - Add resume made with Vue.js
-- **v2.1** | 2018.10.21 - Refactor HTML, CSS code and modify technical, portfolio section
-- **v2.2** | 2019.01.03 - Update copyright year
-- **v2.3** | 2019.04.26 - Add [readpost](https://readpost.co/) link
-- **v2.4** | 2019.05.25 - Modify [corin2](https://github.com/corin2/corin2) link, add Python and fix typo
-- **v2.5** | 2019.05.29 - Modify SNS links: remove instagram, add twitter
-- **v2.6** | 2019.07.03 - Update SNS image links
-- **v2.7** | 2019.08.09 - Remove JavaScript in Experienced section
-- **v2.8** | 2019.11.20 - Add [FIFArm](http://34.85.116.234:8080/) link
-- **v2.9** | 2019.12.15 - Remove mail link
+- 2017.11.29
+- 2018.05.18
+- 2018.07.19 - Add YG-TIME, corin2 project
+- 2018.07.21 - Add my name, AWS, Firebase and modify following word: 'software' to 'web'
+- 2018.07.24 - Add YG-TIME link and modify profile messages
+- 2018.08.10 - Add resume, portfolio and modify a part of technical skills (+ setting 'viewport')
+- 2018.08.17 - Update resume
+- 2018.09.02 - Add Google Analytics
+- 2018.09.06 - Add company name and delete resume, portfolio
+- 2018.09.22 - Modify SNS contact (delete twitter, add linkedin)
+- 2018.10.20 - Add resume made with Vue.js
+- 2018.10.21 - Refactor HTML, CSS code and modify technical, portfolio section
+- 2019.01.03 - Update copyright year
+- 2019.04.26 - Add [readpost](https://readpost.co/) link
+- 2019.05.25 - Modify [corin2](https://github.com/corin2/corin2) link, add Python and fix typo
+- 2019.05.29 - Modify SNS links: remove instagram, add twitter
+- 2019.07.03 - Update SNS image links
+- 2019.08.09 - Remove JavaScript in Experienced section
+- 2019.11.20 - Add [FIFArm](http://34.85.116.234:8080/) link
+- 2019.12.15 - Remove mail link
