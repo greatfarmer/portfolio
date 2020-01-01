@@ -19,4 +19,4 @@
 - 2019.08.09 - Remove JavaScript in Experienced section
 - 2019.11.20 - Add [FIFArm](http://34.85.116.234:8080/) link
 - 2019.12.15 - Remove mail link
-- 2020.01.01 - Update copyright year using javascript (based local time)
+- 2020.01.02 - Remove copyright year and company info
