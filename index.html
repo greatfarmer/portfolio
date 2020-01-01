@@ -24,7 +24,7 @@
       <div class="col-sm-10 contents-center" id="body-style">
         <div class="row">
           <div class="col-sm-12 text-right">
-            <p><a href="#body-style">Home</a> / <a href="#about">About</a> / <a href="#portfolio">Portfolio</a> / <a href="#contact">Contact<a/></p>
+            <p><a href="#body-style">Home</a> / <a href="#about">About</a> / <a href="#portfolio">Portfolio</a> / <a href="#contact">Contact</a></p>
           </div>
         </div>
 
@@ -133,8 +133,11 @@
           </div>
         </div>
         <br>
-        <p class="footer-style text-center">© 2020 Seonghun Kang</p>
+        <p class="footer-style text-center">© <span id="copyright-year"></span> Seonghun Kang</p>
       </div>
     </div>
+    <script>
+        document.getElementById("copyright-year").innerHTML = new Date().getFullYear();
+    </script>
 </body>
 </html>
