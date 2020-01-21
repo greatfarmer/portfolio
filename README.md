@@ -17,6 +17,7 @@
 - 2019.05.29 - Modify SNS links: remove instagram, add twitter
 - 2019.07.03 - Update SNS image links
 - 2019.08.09 - Remove JavaScript in Experienced section
-- 2019.11.20 - Add [FIFArm](http://34.85.116.234:8080/) link
+- 2019.11.20 - Add FIFArm
 - 2019.12.15 - Remove mail link
 - 2020.01.02 - Remove copyright year and company info
+- 2020.01.21 - Update [FIFArm](https://fifarm.net) link
