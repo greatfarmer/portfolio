@@ -22,3 +22,4 @@
 - 2020.01.02 - Remove copyright year and company info
 - 2020.01.21 - Update [FIFArm](https://fifarm.net) link
 - 2020.05.13 - Modify SNS links: remove twitter, facebook
+- 2020.06.17 - Remove resume and modify mail address
