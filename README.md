@@ -23,3 +23,4 @@
 - 2020.01.21 - Update [FIFArm](https://fifarm.net) link
 - 2020.05.13 - Modify SNS links: remove twitter, facebook
 - 2020.06.17 - Remove resume and modify mail address
+- 2020.09.30 - Update [FIFArm github repository](https://github.com/greatfarmer/fifarm) link and status
