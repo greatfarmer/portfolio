@@ -25,3 +25,4 @@
 - 2020.06.17 - Remove resume and modify mail address
 - 2020.09.30 - Update [FIFArm github repository](https://github.com/greatfarmer/fifarm) link and status
 - 2020.10.19 - Update Experienced things
+- 2021.03.14 - Remove Experienced things
