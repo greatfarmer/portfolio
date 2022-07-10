@@ -28,4 +28,4 @@
 - 2021.03.14 - Remove Experienced things
 - 2022.05.06 - Add work experience and modify technical skills
 - 2022.06.12 - Add resume
-- 2022.07.10 - Add Public Key
+- 2022.07.10 - Add Public Key, Favicon, meta tags(og, twitter)
