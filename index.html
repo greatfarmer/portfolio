@@ -4,10 +4,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Seonghun Kang</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.2/css/bootstrap.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
     <link rel="stylesheet" href="css/emoji.css" />
     <link rel="stylesheet" href="css/index.css" />
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125105250-1"></script>
@@ -51,9 +54,6 @@
               My goal is to make useful services for plenty of people.<br>
               <i class="em em-page_facing_up" style="width: 1em; height: 1em;"></i>
               <a href="https://raw.githubusercontent.com/greatfarmer/portfolio/master/resources/resume_seonghun_kang.pdf"><b><i>resume</i></b></a>
-              &nbsp;
-              <img src="images/readpost.png" style="width: 1em; height: 1em;">
-              <a href="https://readpost.co/@greatfarmer" target="_blank"><b><i>readpost</i></b></a>
             </p>
             <p>
               <b>TECHNICAL SKILLS</b>
@@ -82,24 +82,115 @@
           </ul>
         </div>
 
-        <br>
+        <br><br>
 
-        <div class="row contents-center">
-          <!-- blank -->
-          <div class="col-sm-3 contents-center">
-            <!-- <img class="img-fluid img-thumbnail img-portfolio mx-auto d-block" src="images/placeholder.png"> -->
-          </div>
-          <!-- blank -->
-          <div class="col-sm-3 contents-center">
-            <!-- <img class="img-fluid img-thumbnail img-portfolio mx-auto d-block" src="images/placeholder.png"> -->
-          </div>
-          <!-- blank -->
-          <div class="col-sm-3 contents-center">
-            <!-- <img class="img-fluid img-thumbnail img-portfolio mx-auto d-block" src="images/placeholder.png"> -->
-          </div>
+        <div class="text-center">
+          <h3 id="public-key">Public Key</h3>
         </div>
 
-        <br><br>
+        <button type="button" class="collapsible">Show</button>
+        <div class="public-key-content">
+          <div class="contents-center">
+            <pre>
+              <code>curl https://keybase.io/greatfarmer/pgp_keys.asc | gpg --import</code>
+            </pre>
+          </div>
+          <div class="contents-center">
+            <pre><code>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/greatfarmer
+
+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
+H4kWTSEMWvTA3FbAJXaNC5qDgCun
+=K/Dv
+-----END PGP PUBLIC KEY BLOCK-----
+            </code></pre>
+          </div>
+        </div>
+          
+        <br><br><br>
 
         <div class="text-center">
           <h3><a id="contact">Contact</a></h3>
@@ -122,5 +213,23 @@
         <p class="footer-style text-center">© </span> Seonghun Kang</p>
       </div>
     </div>
+  </div>
 </body>
 </html>
+
+<script>
+  var coll = document.getElementsByClassName("collapsible");
+  var i;
+
+  for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var content = this.nextElementSibling;
+      if (content.style.display === "block") {
+        content.style.display = "none";
+      } else {
+        content.style.display = "block";
+      }
+    });
+  }
+</script>

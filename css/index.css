@@ -23,6 +23,13 @@ h1 {
   font-weight: bold;
 }
 
+pre code {
+  background-color: #2d2d30;
+  color: #ffffff;
+  display: block;
+  padding: 20px;
+}
+
 #body-style {
   background-color: Lavender;
 }
@@ -33,6 +40,24 @@ h1 {
 
 .contents-center {
   margin: 0 auto;
+}
+
+.collapsible {
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  outline: none;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.public-key-content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
 }
 
 .footer-style {
