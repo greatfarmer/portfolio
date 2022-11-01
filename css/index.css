@@ -42,6 +42,11 @@ pre code {
   margin: 0 auto;
 }
 
+.table-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .collapsible {
   cursor: pointer;
   width: 100%;
@@ -53,11 +58,14 @@ pre code {
   background-color: #555;
 }
 
-.public-key-content {
+.collapsible-contents {
   padding: 0 18px;
   display: none;
   overflow: hidden;
-  background-color: #f1f1f1;
+}
+
+.bg-color-transparent {
+  background-color: transparent;
 }
 
 .footer-style {
@@ -69,4 +77,11 @@ pre code {
   .work-experience-contents {
     margin-left: 120px;
   }
+}
+
+.circle-image {
+  width: 150px;
+  height: 150px; 
+  border-radius: 70%;
+  overflow: hidden;
 }
