@@ -31,3 +31,4 @@
 - 2022.07.10 - Add Public Key, Favicon, meta tags(og, twitter)
 - 2022.10.29 - Modify profile image, skills and background-color
 - 2022.11.04 - Add Happy Moments
+- 2022.12.03 - Add GA4
