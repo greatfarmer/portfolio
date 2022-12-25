@@ -79,9 +79,51 @@ pre code {
   }
 }
 
+/* Circle Image CSS */
+/* Mobile - Portrait */
 .circle-image {
-  width: 150px;
-  height: 150px; 
+  width: 90px;
+  height: 90px;
   border-radius: 70%;
   overflow: hidden;
+}
+
+/* Mobile - Landscape */
+@media (min-width: 576px) {
+  .circle-image {
+    width: 90px;
+    height: 90px;
+    border-radius: 70%;
+    overflow: hidden;
+  }
+}
+
+/* Tablet */
+@media (min-width: 768px) {
+  .circle-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 70%;
+    overflow: hidden;
+  }  
+}
+
+/* Desktop */
+@media (min-width: 992px) {
+  .circle-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 70%;
+    overflow: hidden;
+  }    
+}
+
+/* Desktop (Large) */
+@media (min-width: 1200px) {
+  .circle-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 70%;
+    overflow: hidden;
+  }    
 }
