@@ -32,3 +32,4 @@
 - 2022.10.29 - Modify profile image, skills and background-color
 - 2022.11.04 - Add Happy Moments
 - 2022.12.03 - Add GA4
+- 2022.12.25 - Add Motto & Wise Quotes

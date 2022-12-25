@@ -74,7 +74,7 @@ pre code {
 }
 
 @media screen and (min-width: 600px) {
-  .work-experience-contents {
+  .list-contents {
     margin-left: 120px;
   }
 }
