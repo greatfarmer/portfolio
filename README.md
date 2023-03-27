@@ -33,3 +33,4 @@
 - 2022.11.04 - Add Happy Moments
 - 2022.12.03 - Add GA4
 - 2022.12.25 - Add Motto & Wise Quotes
+- 2023.03.27 - Update resume
